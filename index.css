@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+   
+    text-align: center;
+}
+.box1{
+    margin: 10px;
+    color: chartreuse;
+}
+.box2{
+    margin: 10px;
+    color: blue;
+
+}
+.box3 {
+    margin: 10px;
+    color: crimson;
+}
+
+
+
